@@ -2,7 +2,11 @@
 
 
 - YouTube : <https://youtu.be/urjCxNOXjpA?si=dRsOO_W79ap1nBL->
-- GitHub : <https://github.com/cheese91383/1151VR-HW3-414262351-DPT>
+
+[!screenshot](https://github.com/cheese91383/1151VR-HW3-414262351-DPT/blob/main/image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-10-16%20150007.png?raw=true)
+<img width="651" height="330" alt="image" src="https://github.com/user-attachments/assets/38d2f71d-1a96-4443-ad29-666e99e1f512" />
+
+
 
 ## 成品功能
 
